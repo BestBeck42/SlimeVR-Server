@@ -1,5 +1,5 @@
 # SlimeVR Server
-Server app for SlimeVR ecosystem
+Server app for SlimeVR ecosystem: Shadow Edition
 
 Server orchestrates communication between multiple sensors and integrations, like SteamVR.
 
